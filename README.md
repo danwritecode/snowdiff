@@ -1,5 +1,7 @@
 # Snowdiff
 
+![Snowdiff TUI Screenshot](assets/screenshot.png)
+
 A fast, pragmatic TUI tool to compare Snowflake table and view schemas using DDL files.  
 Quickly see what tables, views, and columns are missing or different between two environments.
 
